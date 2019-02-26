@@ -28,7 +28,7 @@ function createField(userInput) {
 }};
 
 //Function to delete all divs thus resetting, after initializing a new game
-const reset = (elements) => [...elements].forEach(el => el.remove());
+const reset = (elements) => [...elements].forEach(element => element.remove());
 
 
 
