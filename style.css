@@ -1,4 +1,4 @@
-.wrapper {
+#wrapper {
 	margin: 0 auto;
 	max-width: 960px;
 	text-align: center;
@@ -9,7 +9,7 @@ h1 {
 }
 
 
-.field {
+#field {
 	position: relative;
 	height: 960px;
 	width: 960px;
