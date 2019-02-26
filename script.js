@@ -1,4 +1,4 @@
-const field = document.querySelector('.field');
+const field = document.querySelector('#field');
 const getNewSketch = document.querySelector('#getNewSketch');
 getNewSketch.addEventListener('click', createField);
 
