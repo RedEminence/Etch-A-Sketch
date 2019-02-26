@@ -2,4 +2,5 @@
 
 An etch-a-sketch game made as a part of Odin Project's "Web development 101" course.
 
-Accessible at https://RedEminence.github.com/Etch-A-Sketch/
+
+Accessible at https://redeminence.github.io/Etch-A-Sketch/
